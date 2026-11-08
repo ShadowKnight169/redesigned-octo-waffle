@@ -1,0 +1,60 @@
+Los expedidores embalan las mercancías peligrosas para:|Transportarlas más rápido|Contener las sustancias|Reducir los requisitos de etiquetado
+Los empleados que trabajan con mercancías peligrosas deben recibir formación y superar una prueba:|Cada año|Cada cinco años|Cada tres años
+La autorización para transportar mercancías peligrosas (HazMat) exige una comprobación de antecedentes a cargo de:|DOT|FMCSA|TSA
+Un bulto con mercancías peligrosas que presenta fugas debe:|Aceptarse y notificarse después|Ser reparado por el conductor|Rechazarse
+La clase de peligro de una sustancia indica:|Sus riesgos|Su peso|Su ruta
+Si una etiqueta no cabe en el bulto:|Colócala dentro|Fíjala en una etiqueta colgante|Prescinde de ella
+¿Qué placa exige la indicación «Peligro por inhalación»?|Gas inflamable|Gas tóxico / Tóxico por inhalación|Corrosivo
+Las mercancías peligrosas de los documentos de transporte deben:|Aparecer al final|Estar claramente identificadas|Ignorarse si la cantidad es pequeña
+Los conductores pueden aceptar envíos basándose en:|La certificación del expedidor|La aprobación del responsable de tráfico|Una suposición sobre su estado
+Los documentos de transporte deben coincidir con:|El color del vehículo|Las etiquetas y marcas|Solo el peso de la carga
+Las placas de peligro deben colocarse:|Junto a las marcas|A 3 pulgadas de las marcas|En cualquier lugar visible
+Las placas de peligro dependen de:|La ruta|La clase de peligro|La experiencia del conductor
+Los recipientes deben estar:|Sueltos|Sujetos|Apilados sin restricciones
+Los explosivos no deben cargarse junto a:|Un calefactor|Mercancía seca|Acero
+Los recipientes con sustancias corrosivas no deben:|Llevar etiquetas|Rodarse|Apilarse
+Los explosivos no deben estacionarse a menos de ____ de un puente:|100 pies|200 pies|300 pies
+¿Qué señalización debe utilizarse si un vehículo con explosivos se avería?|Bengalas|Fuego|Triángulos reflectantes
+El transporte de explosivos exige:|GPS|Un plan de ruta|Escolta
+Está prohibido fumar a menos de:|10 pies|25 pies|50 pies
+Al repostar un vehículo con mercancías peligrosas, el motor debe estar:|Encendido|Apagado|Repostando más rápido
+Abrir el remolque durante un incendio:|Reduce el fuego|Aporta oxígeno|Detiene el incendio
+Para identificar una fuga debes utilizar:|El tacto|El olfato|Los documentos de transporte
+Si se produce una fuga durante la conducción:|Continúa|Estaciona inmediatamente|Acelera
+Los números de identificación deben figurar en:|Solo las placas|Los embalajes y los documentos de transporte|Solo los documentos
+Los revestimientos utilizados con explosivos deben ser de:|Acero|Material no ferroso|Solo madera
+El índice de transporte se aplica a materiales:|Inflamables|Corrosivos|Radiactivos
+¿Cuándo se puede arrancar el motor después de descargar gas comprimido?|Antes de desconectar|Después de desconectar|Durante la descarga
+Clasificación mínima del extintor:|5 B:C|10 B:C|15 B:C
+Los explosivos solo pueden quedar sin vigilancia en:|Cualquier lugar|El arcén|Un lugar seguro autorizado
+Los documentos de transporte deben colocarse:|Debajo|Encima|Por separado
+Cuando estés fuera del vehículo, ¿dónde deben estar los documentos?|En el asiento|En la guantera|En el remolque
+La indicación «Prohibido» significa:|Transportar con precaución|No transportar|Cambiar la etiqueta
+Las descripciones de transporte:|Deben abreviarse|No deben abreviarse|Son opcionales
+La letra «G» en la columna 1 significa:|Ignorarla|Añadir el nombre técnico|Añadir la clase de peligro
+Los documentos de transporte deben incluir:|Un teléfono de emergencias|La ruta|El combustible
+La información de emergencia debe incluir:|La hora de entrega|Los riesgos de incendio y explosión|La ruta
+El conductor que vigila el vehículo debe estar:|A menos de 100 pies|Dentro de un edificio|Lejos
+Antes de cargar líquidos inflamables:|Conecta el depósito a tierra|Ábrelo inmediatamente|Deja el motor encendido
+Después de un accidente con explosivos:|Mueve los camiones|Retira primero los explosivos|Deja la carga
+Si hay una fuga radiactiva:|Sigue conduciendo|Deja de utilizar el vehículo|Ignórala
+Durante la conducción, los documentos deben estar:|Guardados bajo llave|Al alcance de la mano|En el remolque
+Al llegar a un paso a nivel con cloro, debes:|Reducir la velocidad|Detenerte|Tocar el claxon
+Si hay una fuga y no tienes teléfono:|Ignórala|Márchate|Envía a alguien a pedir ayuda
+Distancia que debe mantener el supervisor de una cisterna:|10 pies|25 pies|50 pies
+La radiación:|Puede atravesar los embalajes|Permanece contenida|Desaparece
+Las cisternas vacías que han transportado mercancías peligrosas:|No tienen que detenerse|Deben detenerse|Pueden elegir
+Las cisternas portátiles son:|Permanentes|Desmontables|Solo para líquidos
+La Guía de Respuesta en Caso de Emergencia (ERG) sirve para:|Orientarse en la ruta|Identificar peligros|Registrar kilómetros
+La presión de los neumáticos debe comprobarse con:|La vista|El tacto|Un manómetro
+El transporte de cloro exige:|Luces|Una máscara antigás|Solo un extintor
+El orden correcto de la descripción en los documentos es:|Nombre → Número de identificación → Clase|Número de identificación → Nombre → Clase|Clase → Número de identificación → Nombre
+La tabla de mercancías peligrosas se utiliza para:|Controlar el combustible|Determinar los requisitos de transporte|Asignar rutas
+«Embalaje a granel» se refiere a:|Recipientes pequeños|Recipientes grandes|Cajas de cartón
+La formación en seguridad ayuda a los conductores a:|Conducir más rápido|Reconocer amenazas|Reducir el papeleo
+Las actividades sospechosas deben:|Ignorarse|Notificarse|Solo observarse
+Las placas de peligro pueden no ser obligatorias cuando:|La carga es grande|Se aplican excepciones por cantidades pequeñas|Se transporta cualquier mercancía peligrosa
+Las reglas de segregación sirven para:|Ahorrar espacio|Evitar reacciones peligrosas|Reducir el peso
+La prioridad en una emergencia es:|Salvar la carga|Proteger a las personas|Continuar la ruta
+La clase de peligro 3 corresponde a:|Explosivos|Líquidos inflamables|Material radiactivo
+La clase de peligro 8 corresponde a:|Corrosivos|Gases|Venenos

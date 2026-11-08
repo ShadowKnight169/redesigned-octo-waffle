@@ -1,0 +1,60 @@
+El freno de estacionamiento o de emergencia de un vehículo pesado solo puede mantenerse accionado mediante algo que no pueda perder presión, como:|La fuerza de un muelle|La presión del aire|La presión hidráulica
+Los sistemas de frenos neumáticos modernos combinan tres sistemas: servicio, estacionamiento y frenos de ____:|Emergencia|Pedal|Leva en S
+Los manómetros de suministro de aire indican cuánta presión:|Hay en los depósitos|Has utilizado durante el viaje|Llega a las cámaras de freno
+Los frenos de estacionamiento o emergencia de camiones y autobuses pueden mantenerse legalmente accionados mediante la presión de:|Un muelle|Un líquido|Aire
+Todos los vehículos con frenos neumáticos tienen:|Un manómetro de presión de aire|Un indicador del consumo de aire|Un sistema hidráulico de reserva
+El interruptor de las luces de freno:|Enciende las luces para avisar a los conductores de detrás|Indica cuándo usar el freno de emergencia|Advierte de una presión baja en el sistema neumático
+Al frenar, las zapatas o los forros presionan contra:|El tambor de freno|El ajustador de holgura|La leva en S
+Si tu vehículo tiene un evaporador de alcohol, sirve para:|Eliminar el alcohol condensado en el fondo del depósito húmedo|Evitar el vaciado diario de los depósitos|Reducir el riesgo de hielo en las válvulas de los frenos neumáticos cuando hace frío
+¿Por qué deben vaciarse de agua los depósitos de aire comprimido?|Su punto de ebullición reduce la capacidad de frenado|El agua puede congelarse con frío y causar fallos de frenos|El agua enfría demasiado el compresor
+Si la presión de aire no aumenta lo bastante rápido en el tiempo previsto:|Debes estar preparado para usar el freno de estacionamiento para detenerte|Puede faltar alcohol en su depósito|La presión puede bajar demasiado durante la conducción
+El conductor debe recibir una advertencia antes de que la presión de los depósitos de servicio caiga por debajo de ____ psi:|50|55|80
+Los frenos de muelle de tractoras y camiones rígidos detendrán el vehículo cuando la presión caiga por debajo de ____ psi:|20|60|100
+¿Cómo comprobar que los frenos de servicio funcionan correctamente?|Aparca en una pendiente suave, vacía el aire, acciona el freno de estacionamiento y comprueba si se mueve|Aparca en llano, calza las ruedas, acciona el freno de estacionamiento y apaga el motor|Espera a la presión normal, suelta el freno de estacionamiento, avanza despacio y frena firmemente con el pedal
+Para comprobar la holgura de los frenos con leva en S, aparca:|En llano y acciona el freno de estacionamiento|En llano, calza las ruedas y suelta el freno de estacionamiento|En una ligera pendiente, suelta el freno de estacionamiento y pisa el freno de servicio para observar movimientos
+El sistema neumático de un camión rígido o autobús, con motor parado y frenos sueltos, no debe perder más de ____ psi por minuto:|1|3|2
+Con el motor apagado y los frenos accionados, la pérdida de aire de un camión rígido o autobús no debe superar:|1 psi en un minuto|2 psi en 45 segundos|3 psi en un minuto
+La válvula de seguridad está ajustada para reducir automáticamente la presión a ____ psi:|50|100|150
+Los frenos neumáticos tardan más en actuar que los hidráulicos porque el aire:|Usa tambores distintos|Tarda más en circular por los conductos que el líquido hidráulico|Exige muelles de retorno más fuertes
+La distancia total de detención de los vehículos con frenos neumáticos es mayor que con frenos hidráulicos debido a la distancia de:|Retardo de los frenos|Reacción|Frenado efectivo
+En vehículos con frenos neumáticos, el freno de estacionamiento debe utilizarse:|Siempre que dejes el vehículo sin vigilancia|Lo menos posible|Solo en las inspecciones anteriores y posteriores al viaje
+Un camión con frenos neumáticos que circula a 55 mph necesitaría para detenerse:|Menos de 100 pies|Entre 100 y 300 pies|Más de 300 pies
+A 55 mph, el retardo de los frenos neumáticos en asfalto seco añade aproximadamente ____ pies a la distancia de detención:|12|32|52
+El uso de frenos neumáticos al bajar pendientes solo complementa:|El uso de los frenos de muelle|El uso de la válvula limitadora de frenos delanteros|La capacidad de retención del motor
+El calor excesivo en los frenos puede provocar:|Desgaste de la válvula de control modulador|Obstrucción de los conductos de freno|Pérdida de eficacia o fallo de los frenos
+Bajas una pendiente pronunciada a la velocidad «segura» de 40 mph. Debes accionar los frenos de servicio hasta bajar a ____ mph:|25|30|35
+El pedal de freno de un sistema neumático:|Controla la velocidad del compresor|Regula la presión de aire aplicada a los frenos|Conecta los ajustadores de holgura mediante varillas y articulaciones
+Los manómetros de aplicación indican cuánta presión de aire:|Hay en los depósitos|Estás aplicando a los frenos|Hay en la válvula de control modulador
+El sistema que aplica y libera los frenos cuando el conductor pisa el pedal es el sistema de frenos de:|Emergencia|Servicio|Estacionamiento
+Si tu camión o autobús tiene dos válvulas de control del estacionamiento, puedes usar la presión de un depósito independiente para:|Equilibrar los frenos de servicio mientras aparcas|Permanecer aparcado el doble de tiempo sin consumir aire de servicio|Liberar los frenos de muelle de emergencia o estacionamiento y moverlo una corta distancia
+La leva en S:|Regula la entrada de aire en cada cámara de freno|Separa las zapatas del tambor y permite girar libremente las ruedas|Presiona las zapatas contra el interior del tambor
+La válvula de control modulador permite controlar:|Los frenos de muelle|Los frenos delanteros|La presión de aire del sistema de frenos
+Si los depósitos no tienen purgadores automáticos, ¿cada cuánto debes vaciar el aceite y el agua acumulados en su fondo?|Cada cuatro horas de servicio|Al final de cada jornada de conducción|Una vez a la semana
+Algunos sistemas neumáticos tienen evaporador de alcohol. ¿Qué puede ocurrir si no se rellena?|La leva en S puede no volver a su posición al soltar el freno|Puede formarse hielo en los depósitos de aire y fallar los frenos|Puede formarse hielo en los tambores y deformarlos
+¿Qué debes hacer primero y con mayor urgencia si se enciende el aviso de baja presión de aire?|Detenerte y aparcar con seguridad lo antes posible|Ajustar el pedal para aumentar su recorrido|Abrir la válvula de suministro de aire
+Si tu camión tiene un sistema neumático doble y uno de los circuitos tiene poca presión:|Los tambores no recibirán toda la presión|Los frenos delanteros o los traseros no funcionarán plenamente|Los ajustadores manuales de las levas en S están mal regulados
+En condiciones normales, para accionar el freno de estacionamiento, el conductor primero debe:|Apagar el motor|Dejar salir el aire de los frenos de muelle|Asegurarse de que el sistema neumático tiene toda su presión
+Antes de conducir un camión o autobús con doble circuito de frenos, cada circuito debe tener al menos ____ psi:|80|100|120
+¿Cómo comprobar que los frenos de muelle se activan cuando la presión baja de cierto nivel?|Aparca en una ligera pendiente, vacía el aire, acciona los frenos de estacionamiento y comprueba si se mueve|Apaga el motor, calza las ruedas, suelta todos los frenos de estacionamiento y pisa y suelta repetidamente el pedal para reducir la presión|Aparca en llano, calza las ruedas, suelta el freno de estacionamiento cuando haya suficiente aire, apaga el motor y pisa y suelta repetidamente el pedal
+Sabrás que los frenos pierden eficacia por calentamiento cuando:|Tienes que pisar más fuerte para controlar la velocidad cuesta abajo|El pedal parece esponjoso|La velocidad aumenta cuando aflojas el pedal
+Para probar los frenos neumáticos de servicio, debes:|Detener el vehículo, poner una marcha corta, pisar el freno y tirar suavemente contra él|Frenar firmemente avanzando marcha atrás despacio|Frenar firmemente avanzando despacio
+En un sistema neumático en buen estado, el compresor debe empezar a cargar aproximadamente a ____ psi:|100|125|150
+En vehículos con frenos neumáticos, el freno de estacionamiento debe utilizarse:|Lo menos posible|Siempre que el vehículo esté aparcado|Para mantener la velocidad cuesta abajo
+¿En qué consiste la frenada intermitente de emergencia?|Pisar a fondo el pedal y la válvula manual hasta detenerse|Mantener una presión suave y constante en el pedal|Frenar fuerte, soltar cuando se bloqueen las ruedas y volver a frenar cuando giren
+La fuerza de los frenos de muelle:|Depende de que los frenos de servicio estén bien ajustados|No se ve afectada por el estado de los frenos de servicio|Solo puede probarla personal altamente especializado
+¿Cuándo NO es adecuado accionar el freno de estacionamiento?|Cuando los frenos están muy calientes|Cuando vas a parar menos de una hora|Cuando vas a probar el freno de estacionamiento
+¿Cuándo se puede dejar un camión sin vigilancia sin poner el freno de estacionamiento ni calzar las ruedas?|Nunca|Si solo te ausentas unos minutos|Si estás haciendo la inspección previa al viaje
+Para bajar pendientes largas o pronunciadas, después de seleccionar la marcha adecuada debes frenar hasta ir ____ mph por debajo de la velocidad «segura» y luego soltar los frenos:|5|10|15
+Durante la conducción normal, los frenos de muelle suelen mantenerse liberados mediante:|Pernos|Presión de aire|Presión del muelle
+El tipo de freno de fricción más habitual en vehículos pesados es:|Tambor con cuña|Tambor con leva en S|Freno de disco
+El regulador del compresor de aire controla:|Cuándo se bombea aire a los depósitos|La velocidad del compresor|La presión de aire aplicada a los frenos
+Un manómetro de suministro indica la presión existente en:|Los depósitos de aire|Los conductos de freno de la tractora|Los conductos de freno del remolque
+¿Por qué debes vaciar el agua de los depósitos de aire comprimido?|El bajo punto de ebullición del agua reduce el frenado|El agua puede congelarse y provocar un fallo de frenos|Para evitar contaminar el aceite del compresor
+Pisar y soltar repetidamente el pedal de freno puede provocar:|Una pérdida de presión de aire|Un aumento de presión de aire|Ningún cambio de presión
+Si están accionados los frenos de muelle, ¿cuándo debes pisar el pedal de freno?|Solo al bajar una pendiente|Solo sobre suelo resbaladizo|Nunca
+Si tu vehículo tiene un evaporador de alcohol, durante los días fríos debes:|Comprobar y rellenar diariamente el nivel de alcohol|Cambiar el alcohol por el de una botella nueva|Comprobar si hay alcohol en el aceite
+Tu camión tiene un sistema neumático doble en buen estado y depósitos del tamaño mínimo. La presión debe pasar de 85 a 100 psi en ____ segundos:|30|45|60
+Tu camión o autobús tiene doble circuito neumático. Si se enciende el aviso de baja presión en solo uno, ¿qué debes hacer?|Reducir la velocidad y conducir al taller más cercano|Reducir la velocidad y probar el otro circuito mientras conduces|Detenerte y aparcar con seguridad; continuar solo tras reparar el sistema
+No es seguro circular con tambores o discos de freno agrietados o más finos de lo que indica el fabricante. Por lo general, el límite es de ____ pulgada:|1/3|1/4|1/2
+Si tienes que detenerte en una emergencia, debes frenar de forma que:|Puedas usar el freno manual antes del pedal|Puedas dirigir el vehículo y mantenerlo en línea recta|Bloquees las ruedas con toda la fuerza de frenado
+La frenada controlada de emergencia consiste en:|Frenar tan fuerte como sea posible sin bloquear las ruedas|Frenar a fondo, soltar al bloquearse las ruedas y volver a frenar cuando giren|Accionar la válvula manual un segundo y luego pisar el pedal a fondo
